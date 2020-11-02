@@ -1,16 +1,15 @@
-#
-include "colors.inc"#
-include "textures.inc"#
-include "glass.inc"#
-include "metals.inc"#
-include "golds.inc"#
-include "stones.inc"#
-include "woods.inc"#
-include "shapes.inc"#
-include "shapes2.inc"#
-include "functions.inc"#
-include "math.inc"#
-include "transforms.inc"
+#include "colors.inc"
+#include "textures.inc"
+#include "glass.inc"
+#include "metals.inc"
+#include "golds.inc"
+#include "stones.inc"
+#include "woods.inc"
+#include "shapes.inc"
+#include "shapes2.inc"
+#include "functions.inc"
+#include "math.inc"
+#include "transforms.inc"
 
 // Basic Scene Setup
 background {
